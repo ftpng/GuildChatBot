@@ -56,7 +56,7 @@ function sendMessageToDiscord(discordWebhookUrl, content) {
     }
     send_webhook_message(
         discordWebhookUrl,
-        'Limey Chat', 
+        'In Game Chat', 
         content,
         null, 
         null
